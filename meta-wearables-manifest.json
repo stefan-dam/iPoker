@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "name": "Quant Hold'em",
+  "description": "No-limit hold'em with a live quant coach: pot odds, EV, equity, ranges and bankroll maths.",
+  "appearance": {
+    "theme_color": "#FFD24A",
+    "icon": {
+      "src": "../icon.png",
+      "type": "monochrome"
+    },
+    "icon_background": {
+      "colors": [
+        "#1f5cb0",
+        "#0e3366",
+        "#02112a",
+        "#02112a"
+      ],
+      "stops": [
+        0,
+        0.4,
+        0.8,
+        1
+      ],
+      "inner_glow_color": "#8CC8FF"
+    }
+  }
+}
